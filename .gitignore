@@ -1,0 +1,31 @@
+# Binários e arquivos pesados
+*.pdf
+*.zip
+*.rar
+*.pptx
+*.jpeg
+*.jpg
+*.png
+*.Virtual box
+*.log
+*.html
+*.csv
+*.json
+
+# Grandes pastas de datasets (específico para o Colab export)
+Colab Notebooks-*/Colab Notebooks/unb/unb projeto/
+
+# Python/Notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.pytest_cache/
+.coverage
+
+# Banco de dados local
+*.db
+*.sqlite
+
+# IDEs
+.vscode/
+.idea/
