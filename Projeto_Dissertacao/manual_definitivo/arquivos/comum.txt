@@ -1,0 +1,16 @@
+drive.diop.mj.gov.br
+competencias.mj.gov.br
+dspace.mj.gov.br
+drive.cronos.mj.gov.br
+agente.dev.mj.gov.br
+cidadao.dev.mj.gov.br
+eadsegen.mj.gov.br
+eadespen.mj.gov.br
+desarma.mj.gov.br
+intranet.dfnsp.mj.gov.br
+seg.dev.mj.gov.br
+ciber.mj.gov.br
+atendimento.ciof.mj.gov.br
+alterasenha.mj.gov.br
+biblivre.mj.gov.br
+consultasei.mj.gov.br
